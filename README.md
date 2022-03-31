@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://www.hackerrank.com/
+https://www.hackthebox.com/
 -->
 
 <h2>Github stats:</h2>
