@@ -1,11 +1,7 @@
-### Hi there 👋
+<h2> Hi there 👋 </h2>
 
-<h2>Github stats:</h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranklyFuzzy&theme=dark) &emsp;
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklyFuzzy&langs_count=5&theme=dark)]()
-
-
+### My Gist
+[here](https://gist.github.com/FranklyFuzzy/)
 
 <!--
 **FranklyFuzzy/FranklyFuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Github stats:</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranklyFuzzy&theme=dark) &emsp;
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklyFuzzy&langs_count=5&theme=dark)]()
