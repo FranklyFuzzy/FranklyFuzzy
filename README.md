@@ -1,4 +1,12 @@
-<h2> Hi there 👋 </h2>
+### Hi there 👋 
+
+- 🔭 I’m currently working on
+  - Python
+  - Bash
+
+- 🌱 I’m currently learning
+  - Cloud
+  - Contribute to projects
 
 ### Resources
 [My Gists](https://gist.github.com/FranklyFuzzy/)
@@ -6,17 +14,12 @@
 [start.me Tool Collection](https://start.me/p/gyqjdO/promiscuous-mode)
 
 <!--
-**FranklyFuzzy/FranklyFuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 https://www.hackerrank.com/
