@@ -1,10 +1,6 @@
-### Hi there 👋 
-
-- 🔭 I’m currently working on
+### Greetz
   - Python
   - Bash
-
-- 🌱 I’m currently learning
   - Cloud
   - Contribute to projects
 
